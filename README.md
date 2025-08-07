@@ -4,7 +4,7 @@
 
 
 """
-Please create a python application that can take datasets and clean the data
+Create a python application that can take datasets and clean the data
 - It should ask for datasets path and name
 - it should check number of duplicats and remove all the duplicates 
 - it should keep a copy of all the duplicates
